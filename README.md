@@ -44,19 +44,19 @@
   <summary>Daftar Isi</summary>
   <ol>
     <li>
-      <a href="#Tentang Projek">Tentang Projek</a>
+      <a href="#tentang-projek">Tentang Projek</a>
     </li>
     <li>
-      <a href="#Alat dan Sumber data">Alat dan Sumber data</a>
+      <a href="#alat-dan-sumber-data">Alat dan Sumber data</a>
     </li>
-    <li><a href="#Tahapan Pembuatan Dashboard">Tahapan Pembuatan Dashboard</a>
+    <li><a href="#tahapan-pembuatan-dashboard">Tahapan Pembuatan Dashboard</a>
       <ul>
-        <li><a href="#Pengumpulan Data">Pengumpulan Data</a></li>
-        <li><a href="#Seleksi Data">Seleksi Data</a></li>
-        <li><a href="#Pengelompokan Data">Pengelompokan Data</a></li>
-        <li><a href="#Pembuatan Visualisasi Data">Pembuatan Visualisasi Data</a></li>
-        <li><a href="#Pembuatan Dashboard">Pembuatan Dashboard</a></li>
-        <li><a href="#Publikasi Dashboard">Publikasi Dashboard</a></li>
+        <li><a href="#pengumpulan-data">Pengumpulan Data</a></li>
+        <li><a href="#seleksi-data">Seleksi Data</a></li>
+        <li><a href="#pengelompokan-data">Pengelompokan Data</a></li>
+        <li><a href="#pembuatan-visualisasi-data">Pembuatan Visualisasi Data</a></li>
+        <li><a href="#pembuatan-dashboard">Pembuatan Dashboard</a></li>
+        <li><a href="#publikasi-dashboard">Publikasi Dashboard</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -138,7 +138,9 @@ Pembuatan visualisasi data dilakukan dengan Tableau. Beberapa jenis visualisasi 
 Setelah semua bentuk visualisasi telah dibuat, langkah selanjutnya adalah pembuatan dashboard menggunakan Tableau. Pada tahapan ini, terdapat juga pembuatan filter, pembuatan header menggunakan Canva,  penyeragaman warna dan sebagainya.
 
 ### Publikasi Dashboard
-Dashboard yang telah dibuat kemudian dipublikasikan melalui Tableau Public. Dashboard Statistik Kriminal Indoenesia dapat diakses melalui [link ini](https://public.tableau.com/app/profile/billy.aufa.alfarisy/viz/Project_16546804047120/DashboardJadi). 
+Dashboard yang telah dibuat kemudian dipublikasikan melalui Tableau Public. Dashboard Statistik Kriminal Indoenesia dapat diakses melalui [link ini](https://public.tableau.com/app/profile/billy.aufa.alfarisy/viz/Project_16546804047120/DashboardJadi).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
 
