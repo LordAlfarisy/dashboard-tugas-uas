@@ -28,226 +28,149 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Dashboard Statistik Kriminal Indonesia</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Ujian Akhir Semester
+    Visualisasi Data T.A 2021/2022
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+ 
 
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Daftar Isi</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#Tentang Projek">Tentang Projek</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Alat dan Sumber data">Alat dan Sumber data</a>
+    </li>
+    <li><a href="#Tahapan Pembuatan Dashboard">Tahapan Pembuatan Dashboard</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Pengumpulan Data">Pengumpulan Data</a></li>
+        <li><a href="#Seleksi Data">Seleksi Data</a></li>
+        <li><a href="#Pengelompokan Data">Pengelompokan Data</a></li>
+        <li><a href="#Pembuatan Visualisasi Data">Pembuatan Visualisasi Data</a></li>
+        <li><a href="#Pembuatan Dashboard">Pembuatan Dashboard</a></li>
+        <li><a href="#Publikasi Dashboard">Publikasi Dashboard</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Tentang Projek
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Tampilan Dashboard][tampilan-project]
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Dashboard Statistik Kriminal Indonesia adalah dashboard interaktif yang berisi tentang informasi-informasi terkait kriminalitas di Indonesia pada tahun 2015-2020 yang berasal dari publikasi tahunan Badan Pusat Statistik yaitu Statistik Kriminal .  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### Built With
+## Alat dan Sumber Data
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+1. Alat
+* Tableau
+* Microsoft Excel
+* Canva
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+2. Sumber Data
+* [Statistik Kriminal BPS Tahun 2015-2020](https://www.bps.go.id/publication.html?Publikasi%5BtahunJudul%5D=2021&Publikasi%5BkataKunci%5D=kriminal&Publikasi%5BcekJudul%5D=0&yt0=Tampilkan)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Tahapan Pembuatan Dashboard
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Pengumpulan Data
+Data yang digunakan dalam dashboard ini berasal dari publikasi BPS yaitu Statistik Kriminal tahun 2015-2020. Data ini dapat diunduh melalui [bps.go.id](https://bps.go.id/). 
 
-### Prerequisites
+### Seleksi Data
+Pada tahap ini dilakukan seleksi data mana saja yang akan divisualisasikan pada dashboard. Data yang akan digunakan adalah :
+1.	Jumlah kejahatan tahun 2015-2020
+2.	Tingkat risiko kejahatan tahun 2015-2020
+3.	Crime clock tahun 2015-2020
+4.	Tingkat risiko kejahatan per provinsi tahun 2015-2020
+5.	Jumlah kejahatan berdasarkan klasifikasi kejahatan tahun 2015-2020
+6.	Karakteristik penduduk korban kejahatan berdasarkan jenis kelamin tahun 2015-2020
+7.	Karakteristik penduduk korban kejahatan berdasarkan kelompok umur tahun 2015-2020
+8.	Persentase penduduk korban kejahatan yang melaporkan ke polisi tahun 2015-2020
+9.	Persentase penyelesaian kasus kejahatan tahun 2015-2020
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Pengelompokan Data
+Data yang telah diseleksi kemudian dikelompokkan ke beberapa dataset yang akan digunakan untuk pembuatan masing-masing visualisasi. Pengelompokan data ini dilakukan menggunakan Microsoft Excel.
 
-### Installation
+### Pembuatan Visualisasi Data
+Pembuatan visualisasi data dilakukan dengan Tableau. Beberapa jenis visualisasi yang dibuat adalah :
+1. Angka
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+![Angka][angka]
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Peta
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+![Peta][peta]
 
+3. Treemap
 
+![Treemap][treemap]
 
-<!-- USAGE EXAMPLES -->
-## Usage
+4. Bar Chart
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+![Bar Chart][barchart]
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+5. Donut Chart
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+![Donut Chart][donutchart]
 
 
+### Pembuatan Dashboard
+Setelah semua bentuk visualisasi telah dibuat, langkah selanjutnya adalah pembuatan dashboard menggunakan Tableau. Pada tahapan ini, terdapat juga pembuatan filter, pembuatan header menggunakan Canva,  penyeragaman warna dan sebagainya.
 
-<!-- ROADMAP -->
-## Roadmap
+### Publikasi Dashboard
+Dashboard yang telah dibuat kemudian dipublikasikan melalui Tableau Public. Dashboard Statistik Kriminal Indoenesia dapat diakses melalui [link ini](https://public.tableau.com/app/profile/billy.aufa.alfarisy/viz/Project_16546804047120/DashboardJadi). 
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Billy Aufa Alfarisy 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Instagram :[@b.alfarisy](https://www.instagram.com/b.alfarisy/?hl=id) 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Email : 221911058@stis.ac.id
 
+LinkedIn : [Billy Aufa Alfarisy](https://www.linkedin.com/in/billy-aufa-alfarisy-a835701b6/)
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Link Proyek : [https://github.com/LordAlfarisy/dashboard-tugas-uas](https://github.com/LordAlfarisy/dashboard-tugas-uas)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/LordAlfarisy/dashboard-tugas-uas/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/LordAlfarisy/dashboard-tugas-uas/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/LordAlfarisy/dashboard-tugas-uas/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/LordAlfarisy/dashboard-tugas-uas/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/LordAlfarisy/dashboard-tugas-uas/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/billy-aufa-alfarisy-a835701b6/
+[tampilan-project]: images/dashboard.jpeg
+[angka]: images/angka.jpeg
+[peta]: images/peta.jpeg
+[treemap]: images/treemap.jpeg
+[barchart]: images/barchart.jpeg
+[donutchart]: images/donutchart.jpeg
