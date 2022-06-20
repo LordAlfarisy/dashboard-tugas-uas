@@ -1,0 +1,205 @@
+﻿FilterTahun;Id 1;Id 11;Name 1;Provinsi;Tahun;Type 1;Geometry;Sp Potong;Tingkat Risiko Kejahatan
+2015;11;11;Aceh;ACEH;01/01/2020;Daaerah Istimewa;MultiPolygon;415123;149
+2015;12;12;Sumatera Utara;SUMATERA UTARA;01/01/2020;Provinsi;MultiPolygon;896200;231
+2015;13;13;Sumatera Barat;SUMATERA BARAT;01/01/2020;Provinsi;MultiPolygon;417029;150
+2015;14;14;Riau;RIAU;01/01/2020;Provinsi;MultiPolygon;202647;123
+2015;15;15;Jambi;JAMBI;01/01/2020;Provinsi;MultiPolygon;161374;134
+2015;16;16;Sumatera Selatan;SUMATERA SELATAN;01/01/2020;Provinsi;MultiPolygon;304815;147
+2015;17;17;Bengkulu;BENGKULU;01/01/2020;Provinsi;MultiPolygon;164780;172
+2015;18;18;Lampung;LAMPUNG;01/01/2020;Provinsi;MultiPolygon;864213;92
+2015;19;19;Bangka-Belitung;KEP. BANGKA BELITUNG;01/01/2020;Provinsi;MultiPolygon;15742;133
+2015;20;20;Kepulauan Riau;KEP. RIAU;01/01/2020;Provinsi;MultiPolygon;27374;127
+2015;31;31;DKI Jakarta;DKI JAKARTA;01/01/2020;Daerah Khusus Ibukota;MultiPolygon;2396;105
+2015;32;32;Jawa Barat;JAWA BARAT;01/01/2020;Provinsi;MultiPolygon;389251;29
+2015;33;33;Jawa Tengah;JAWA TENGAH;01/01/2020;Provinsi;MultiPolygon;1800662;31
+2015;34;34;DI Yogyakarta;DI YOGYAKARTA;01/01/2020;Daerah Istimewa;MultiPolygon;306498;200
+2015;35;35;Jawa Timur;JAWA TIMUR;01/01/2020;Provinsi;MultiPolygon;4815330;44
+2015;36;36;Banten;BANTEN;01/01/2020;Provinsi;MultiPolygon;49495;63
+2015;51;51;Bali;BALI;01/01/2020;Provinsi;MultiPolygon;588552;60
+2015;52;52;Nusa Tenggara Barat;NUSA TENGGARA BARAT;01/01/2020;Provinsi;MultiPolygon;1284649;167
+2015;53;53;Nusa Tenggara Timur;NUSA TENGGARA TIMUR;01/01/2020;Provinsi;MultiPolygon;1188982;88
+2015;61;61;Kalimantan Barat;KALIMANTAN BARAT;01/01/2020;Provinsi;MultiPolygon;155950;76
+2015;62;62;Kalimantan Tengah;KALIMANTAN TENGAH;01/01/2020;Provinsi;MultiPolygon;77432;62
+2015;63;63;Kalimantan Selatan;KALIMANTAN SELATAN;01/01/2020;Provinsi;MultiPolygon;131146;196
+2015;64;64;Kalimantan Timur;KALIMANTAN TIMUR;01/01/2020;Provinsi;MultiPolygon;123069;100
+2015;65;65;Kalimantan Utara;KALIMANTAN UTARA;01/01/2020;Provinsi;MultiPolygon;23795;146
+2015;71;71;Sulawesi Utara;SULAWESI UTARA;01/01/2020;Provinsi;MultiPolygon;128654;252
+2015;72;72;Sulawesi Tengah;SULAWESI TENGAH;01/01/2020;Provinsi;MultiPolygon;391418;179
+2015;73;73;Sulawesi Selatan;SULAWESI SELATAN;01/01/2020;Provinsi;MultiPolygon;1431533;145
+2015;74;74;Sulawesi Tenggara;SULAWESI TENGGARA;01/01/2020;Provinsi;MultiPolygon;357086;81
+2015;75;75;Gorontalo;GORONTALO;01/01/2020;Provinsi;MultiPolygon;253960;214
+2015;76;76;Sulawesi Barat;SULAWESI BARAT;01/01/2020;Provinsi;MultiPolygon;112662;125
+2015;81;81;Maluku;MALUKU;01/01/2020;Provinsi;MultiPolygon;110063;303
+2015;82;82;Maluku Utara;MALUKU UTARA;01/01/2020;Provinsi;MultiPolygon;106941;69
+2015;91;91;Papua Barat;PAPUA BARAT;01/01/2020;Provinsi;MultiPolygon;56367;328
+2015;94;94;Papua;PAPUA;01/01/2020;Provinsi;MultiPolygon;111604;208
+2015;11;11;Aceh;ACEH;01/01/2019;Daaerah Istimewa;MultiPolygon;415123;144
+2015;12;12;Sumatera Utara;SUMATERA UTARA;01/01/2019;Provinsi;MultiPolygon;896200;216
+2015;13;13;Sumatera Barat;SUMATERA BARAT;01/01/2019;Provinsi;MultiPolygon;417029;208
+2015;14;14;Riau;RIAU;01/01/2019;Provinsi;MultiPolygon;202647;99
+2015;15;15;Jambi;JAMBI;01/01/2019;Provinsi;MultiPolygon;161374;195
+2015;16;16;Sumatera Selatan;SUMATERA SELATAN;01/01/2019;Provinsi;MultiPolygon;304815;156
+2015;17;17;Bengkulu;BENGKULU;01/01/2019;Provinsi;MultiPolygon;164780;179
+2015;18;18;Lampung;LAMPUNG;01/01/2019;Provinsi;MultiPolygon;864213;103
+2015;19;19;Bangka-Belitung;KEP. BANGKA BELITUNG;01/01/2019;Provinsi;MultiPolygon;15742;136
+2015;20;20;Kepulauan Riau;KEP. RIAU;01/01/2019;Provinsi;MultiPolygon;27374;152
+2015;31;31;DKI Jakarta;DKI JAKARTA;01/01/2019;Daerah Khusus Ibukota;MultiPolygon;2396;127
+2015;32;32;Jawa Barat;JAWA BARAT;01/01/2019;Provinsi;MultiPolygon;389251;34
+2015;33;33;Jawa Tengah;JAWA TENGAH;01/01/2019;Provinsi;MultiPolygon;1800662;30
+2015;34;34;DI Yogyakarta;DI YOGYAKARTA;01/01/2019;Daerah Istimewa;MultiPolygon;306498;177
+2015;35;35;Jawa Timur;JAWA TIMUR;01/01/2019;Provinsi;MultiPolygon;4815330;69
+2015;36;36;Banten;BANTEN;01/01/2019;Provinsi;MultiPolygon;49495;49
+2015;51;51;Bali;BALI;01/01/2019;Provinsi;MultiPolygon;588552;72
+2015;52;52;Nusa Tenggara Barat;NUSA TENGGARA BARAT;01/01/2019;Provinsi;MultiPolygon;1284649;165
+2015;53;53;Nusa Tenggara Timur;NUSA TENGGARA TIMUR;01/01/2019;Provinsi;MultiPolygon;1188982;111
+2015;61;61;Kalimantan Barat;KALIMANTAN BARAT;01/01/2019;Provinsi;MultiPolygon;155950;96
+2015;62;62;Kalimantan Tengah;KALIMANTAN TENGAH;01/01/2019;Provinsi;MultiPolygon;77432;94
+2015;63;63;Kalimantan Selatan;KALIMANTAN SELATAN;01/01/2019;Provinsi;MultiPolygon;131146;130
+2015;64;64;Kalimantan Timur;KALIMANTAN TIMUR;01/01/2019;Provinsi;MultiPolygon;123069;124
+2015;65;65;Kalimantan Utara;KALIMANTAN UTARA;01/01/2019;Provinsi;MultiPolygon;23795;127
+2015;71;71;Sulawesi Utara;SULAWESI UTARA;01/01/2019;Provinsi;MultiPolygon;128654;302
+2015;72;72;Sulawesi Tengah;SULAWESI TENGAH;01/01/2019;Provinsi;MultiPolygon;391418;211
+2015;73;73;Sulawesi Selatan;SULAWESI SELATAN;01/01/2019;Provinsi;MultiPolygon;1431533;190
+2015;74;74;Sulawesi Tenggara;SULAWESI TENGGARA;01/01/2019;Provinsi;MultiPolygon;357086;47
+2015;75;75;Gorontalo;GORONTALO;01/01/2019;Provinsi;MultiPolygon;253960;203
+2015;76;76;Sulawesi Barat;SULAWESI BARAT;01/01/2019;Provinsi;MultiPolygon;112662;148
+2015;81;81;Maluku;MALUKU;01/01/2019;Provinsi;MultiPolygon;110063;200
+2015;82;82;Maluku Utara;MALUKU UTARA;01/01/2019;Provinsi;MultiPolygon;106941;59
+2015;91;91;Papua Barat;PAPUA BARAT;01/01/2019;Provinsi;MultiPolygon;56367;325
+2015;94;94;Papua;PAPUA;01/01/2019;Provinsi;MultiPolygon;111604;214
+2015;11;11;Aceh;ACEH;01/01/2018;Daaerah Istimewa;MultiPolygon;415123;169
+2015;12;12;Sumatera Utara;SUMATERA UTARA;01/01/2018;Provinsi;MultiPolygon;896200;231
+2015;13;13;Sumatera Barat;SUMATERA BARAT;01/01/2018;Provinsi;MultiPolygon;417029;243
+2015;14;14;Riau;RIAU;01/01/2018;Provinsi;MultiPolygon;202647;109
+2015;15;15;Jambi;JAMBI;01/01/2018;Provinsi;MultiPolygon;161374;180
+2015;16;16;Sumatera Selatan;SUMATERA SELATAN;01/01/2018;Provinsi;MultiPolygon;304815;164
+2015;17;17;Bengkulu;BENGKULU;01/01/2018;Provinsi;MultiPolygon;164780;175
+2015;18;18;Lampung;LAMPUNG;01/01/2018;Provinsi;MultiPolygon;864213;108
+2015;19;19;Bangka-Belitung;KEP. BANGKA BELITUNG;01/01/2018;Provinsi;MultiPolygon;15742;143
+2015;20;20;Kepulauan Riau;KEP. RIAU;01/01/2018;Provinsi;MultiPolygon;27374;164
+2015;31;31;DKI Jakarta;DKI JAKARTA;01/01/2018;Daerah Khusus Ibukota;MultiPolygon;2396;137
+2015;32;32;Jawa Barat;JAWA BARAT;01/01/2018;Provinsi;MultiPolygon;389251;42
+2015;33;33;Jawa Tengah;JAWA TENGAH;01/01/2018;Provinsi;MultiPolygon;1800662;277
+2015;34;34;DI Yogyakarta;DI YOGYAKARTA;01/01/2018;Daerah Istimewa;MultiPolygon;306498;179
+2015;35;35;Jawa Timur;JAWA TIMUR;01/01/2018;Provinsi;MultiPolygon;4815330;67
+2015;36;36;Banten;BANTEN;01/01/2018;Provinsi;MultiPolygon;49495;54
+2015;51;51;Bali;BALI;01/01/2018;Provinsi;MultiPolygon;588552;76
+2015;52;52;Nusa Tenggara Barat;NUSA TENGGARA BARAT;01/01/2018;Provinsi;MultiPolygon;1284649;130
+2015;53;53;Nusa Tenggara Timur;NUSA TENGGARA TIMUR;01/01/2018;Provinsi;MultiPolygon;1188982;118
+2015;61;61;Kalimantan Barat;KALIMANTAN BARAT;01/01/2018;Provinsi;MultiPolygon;155950;118
+2015;62;62;Kalimantan Tengah;KALIMANTAN TENGAH;01/01/2018;Provinsi;MultiPolygon;77432;138
+2015;63;63;Kalimantan Selatan;KALIMANTAN SELATAN;01/01/2018;Provinsi;MultiPolygon;131146;102
+2015;64;64;Kalimantan Timur;KALIMANTAN TIMUR;01/01/2018;Provinsi;MultiPolygon;123069;176
+2015;65;65;Kalimantan Utara;KALIMANTAN UTARA;01/01/2018;Provinsi;MultiPolygon;23795;57
+2015;71;71;Sulawesi Utara;SULAWESI UTARA;01/01/2018;Provinsi;MultiPolygon;128654;416
+2015;72;72;Sulawesi Tengah;SULAWESI TENGAH;01/01/2018;Provinsi;MultiPolygon;391418;316
+2015;73;73;Sulawesi Selatan;SULAWESI SELATAN;01/01/2018;Provinsi;MultiPolygon;1431533;255
+2015;74;74;Sulawesi Tenggara;SULAWESI TENGGARA;01/01/2018;Provinsi;MultiPolygon;357086;49
+2015;75;75;Gorontalo;GORONTALO;01/01/2018;Provinsi;MultiPolygon;253960;243
+2015;76;76;Sulawesi Barat;SULAWESI BARAT;01/01/2018;Provinsi;MultiPolygon;112662;144
+2015;81;81;Maluku;MALUKU;01/01/2018;Provinsi;MultiPolygon;110063;158
+2015;82;82;Maluku Utara;MALUKU UTARA;01/01/2018;Provinsi;MultiPolygon;106941;60
+2015;91;91;Papua Barat;PAPUA BARAT;01/01/2018;Provinsi;MultiPolygon;56367;380
+2015;94;94;Papua;PAPUA;01/01/2018;Provinsi;MultiPolygon;111604;224
+2015;11;11;Aceh;ACEH;01/01/2017;Daaerah Istimewa;MultiPolygon;415123;171
+2015;12;12;Sumatera Utara;SUMATERA UTARA;01/01/2017;Provinsi;MultiPolygon;896200;280
+2015;13;13;Sumatera Barat;SUMATERA BARAT;01/01/2017;Provinsi;MultiPolygon;417029;248
+2015;14;14;Riau;RIAU;01/01/2017;Provinsi;MultiPolygon;202647;103
+2015;15;15;Jambi;JAMBI;01/01/2017;Provinsi;MultiPolygon;161374;271
+2015;16;16;Sumatera Selatan;SUMATERA SELATAN;01/01/2017;Provinsi;MultiPolygon;304815;190
+2015;17;17;Bengkulu;BENGKULU;01/01/2017;Provinsi;MultiPolygon;164780;252
+2015;18;18;Lampung;LAMPUNG;01/01/2017;Provinsi;MultiPolygon;864213;134
+2015;19;19;Bangka-Belitung;KEP. BANGKA BELITUNG;01/01/2017;Provinsi;MultiPolygon;15742;135
+2015;20;20;Kepulauan Riau;KEP. RIAU;01/01/2017;Provinsi;MultiPolygon;27374;176
+2015;31;31;DKI Jakarta;DKI JAKARTA;01/01/2017;Daerah Khusus Ibukota;MultiPolygon;2396;138
+2015;32;32;Jawa Barat;JAWA BARAT;01/01/2017;Provinsi;MultiPolygon;389251;65
+2015;33;33;Jawa Tengah;JAWA TENGAH;01/01/2017;Provinsi;MultiPolygon;1800662;35
+2015;34;34;DI Yogyakarta;DI YOGYAKARTA;01/01/2017;Daerah Istimewa;MultiPolygon;306498;198
+2015;35;35;Jawa Timur;JAWA TIMUR;01/01/2017;Provinsi;MultiPolygon;4815330;88
+2015;36;36;Banten;BANTEN;01/01/2017;Provinsi;MultiPolygon;49495;5
+2015;51;51;Bali;BALI;01/01/2017;Provinsi;MultiPolygon;588552;85
+2015;52;52;Nusa Tenggara Barat;NUSA TENGGARA BARAT;01/01/2017;Provinsi;MultiPolygon;1284649;164
+2015;53;53;Nusa Tenggara Timur;NUSA TENGGARA TIMUR;01/01/2017;Provinsi;MultiPolygon;1188982;127
+2015;61;61;Kalimantan Barat;KALIMANTAN BARAT;01/01/2017;Provinsi;MultiPolygon;155950;122
+2015;62;62;Kalimantan Tengah;KALIMANTAN TENGAH;01/01/2017;Provinsi;MultiPolygon;77432;104
+2015;63;63;Kalimantan Selatan;KALIMANTAN SELATAN;01/01/2017;Provinsi;MultiPolygon;131146;160
+2015;64;64;Kalimantan Timur;KALIMANTAN TIMUR;01/01/2017;Provinsi;MultiPolygon;123069;214
+2015;65;65;Kalimantan Utara;KALIMANTAN UTARA;01/01/2017;Provinsi;MultiPolygon;23795;0
+2015;71;71;Sulawesi Utara;SULAWESI UTARA;01/01/2017;Provinsi;MultiPolygon;128654;324
+2015;72;72;Sulawesi Tengah;SULAWESI TENGAH;01/01/2017;Provinsi;MultiPolygon;391418;345
+2015;73;73;Sulawesi Selatan;SULAWESI SELATAN;01/01/2017;Provinsi;MultiPolygon;1431533;256
+2015;74;74;Sulawesi Tenggara;SULAWESI TENGGARA;01/01/2017;Provinsi;MultiPolygon;357086;110
+2015;75;75;Gorontalo;GORONTALO;01/01/2017;Provinsi;MultiPolygon;253960;265
+2015;76;76;Sulawesi Barat;SULAWESI BARAT;01/01/2017;Provinsi;MultiPolygon;112662;146
+2015;81;81;Maluku;MALUKU;01/01/2017;Provinsi;MultiPolygon;110063;177
+2015;82;82;Maluku Utara;MALUKU UTARA;01/01/2017;Provinsi;MultiPolygon;106941;65
+2015;91;91;Papua Barat;PAPUA BARAT;01/01/2017;Provinsi;MultiPolygon;56367;146
+2015;94;94;Papua;PAPUA;01/01/2017;Provinsi;MultiPolygon;111604;208
+2015;11;11;Aceh;ACEH;01/01/2016;Daaerah Istimewa;MultiPolygon;415123;194
+2015;12;12;Sumatera Utara;SUMATERA UTARA;01/01/2016;Provinsi;MultiPolygon;896200;258
+2015;13;13;Sumatera Barat;SUMATERA BARAT;01/01/2016;Provinsi;MultiPolygon;417029;283
+2015;14;14;Riau;RIAU;01/01/2016;Provinsi;MultiPolygon;202647;124
+2015;15;15;Jambi;JAMBI;01/01/2016;Provinsi;MultiPolygon;161374;298
+2015;16;16;Sumatera Selatan;SUMATERA SELATAN;01/01/2016;Provinsi;MultiPolygon;304815;274
+2015;17;17;Bengkulu;BENGKULU;01/01/2016;Provinsi;MultiPolygon;164780;250
+2015;18;18;Lampung;LAMPUNG;01/01/2016;Provinsi;MultiPolygon;864213;131
+2015;19;19;Bangka-Belitung;KEP. BANGKA BELITUNG;01/01/2016;Provinsi;MultiPolygon;15742;139
+2015;20;20;Kepulauan Riau;KEP. RIAU;01/01/2016;Provinsi;MultiPolygon;27374;236
+2015;31;31;DKI Jakarta;DKI JAKARTA;01/01/2016;Daerah Khusus Ibukota;MultiPolygon;2396;169
+2015;32;32;Jawa Barat;JAWA BARAT;01/01/2016;Provinsi;MultiPolygon;389251;68
+2015;33;33;Jawa Tengah;JAWA TENGAH;01/01/2016;Provinsi;MultiPolygon;1800662;39
+2015;34;34;DI Yogyakarta;DI YOGYAKARTA;01/01/2016;Daerah Istimewa;MultiPolygon;306498;211
+2015;35;35;Jawa Timur;JAWA TIMUR;01/01/2016;Provinsi;MultiPolygon;4815330;52
+2015;36;36;Banten;BANTEN;01/01/2016;Provinsi;MultiPolygon;49495;87
+2015;51;51;Bali;BALI;01/01/2016;Provinsi;MultiPolygon;588552;106
+2015;52;52;Nusa Tenggara Barat;NUSA TENGGARA BARAT;01/01/2016;Provinsi;MultiPolygon;1284649;166
+2015;53;53;Nusa Tenggara Timur;NUSA TENGGARA TIMUR;01/01/2016;Provinsi;MultiPolygon;1188982;146
+2015;61;61;Kalimantan Barat;KALIMANTAN BARAT;01/01/2016;Provinsi;MultiPolygon;155950;147
+2015;62;62;Kalimantan Tengah;KALIMANTAN TENGAH;01/01/2016;Provinsi;MultiPolygon;77432;118
+2015;63;63;Kalimantan Selatan;KALIMANTAN SELATAN;01/01/2016;Provinsi;MultiPolygon;131146;166
+2015;64;64;Kalimantan Timur;KALIMANTAN TIMUR;01/01/2016;Provinsi;MultiPolygon;123069;252
+2015;65;65;Kalimantan Utara;KALIMANTAN UTARA;01/01/2016;Provinsi;MultiPolygon;23795;0
+2015;71;71;Sulawesi Utara;SULAWESI UTARA;01/01/2016;Provinsi;MultiPolygon;128654;343
+2015;72;72;Sulawesi Tengah;SULAWESI TENGAH;01/01/2016;Provinsi;MultiPolygon;391418;326
+2015;73;73;Sulawesi Selatan;SULAWESI SELATAN;01/01/2016;Provinsi;MultiPolygon;1431533;166
+2015;74;74;Sulawesi Tenggara;SULAWESI TENGGARA;01/01/2016;Provinsi;MultiPolygon;357086;135
+2015;75;75;Gorontalo;GORONTALO;01/01/2016;Provinsi;MultiPolygon;253960;305
+2015;76;76;Sulawesi Barat;SULAWESI BARAT;01/01/2016;Provinsi;MultiPolygon;112662;0
+2015;81;81;Maluku;MALUKU;01/01/2016;Provinsi;MultiPolygon;110063;122
+2015;82;82;Maluku Utara;MALUKU UTARA;01/01/2016;Provinsi;MultiPolygon;106941;69
+2015;91;91;Papua Barat;PAPUA BARAT;01/01/2016;Provinsi;MultiPolygon;56367;396
+2015;94;94;Papua;PAPUA;01/01/2016;Provinsi;MultiPolygon;111604;236
+2015;11;11;Aceh;ACEH;01/01/2015;Daaerah Istimewa;MultiPolygon;415123;164
+2015;12;12;Sumatera Utara;SUMATERA UTARA;01/01/2015;Provinsi;MultiPolygon;896200;256
+2015;13;13;Sumatera Barat;SUMATERA BARAT;01/01/2015;Provinsi;MultiPolygon;417029;317
+2015;14;14;Riau;RIAU;01/01/2015;Provinsi;MultiPolygon;202647;155
+2015;15;15;Jambi;JAMBI;01/01/2015;Provinsi;MultiPolygon;161374;316
+2015;16;16;Sumatera Selatan;SUMATERA SELATAN;01/01/2015;Provinsi;MultiPolygon;304815;259
+2015;17;17;Bengkulu;BENGKULU;01/01/2015;Provinsi;MultiPolygon;164780;242
+2015;18;18;Lampung;LAMPUNG;01/01/2015;Provinsi;MultiPolygon;864213;115
+2015;19;19;Bangka-Belitung;KEP. BANGKA BELITUNG;01/01/2015;Provinsi;MultiPolygon;15742;140
+2015;20;20;Kepulauan Riau;KEP. RIAU;01/01/2015;Provinsi;MultiPolygon;27374;255
+2015;31;31;DKI Jakarta;DKI JAKARTA;01/01/2015;Daerah Khusus Ibukota;MultiPolygon;2396;181
+2015;32;32;Jawa Barat;JAWA BARAT;01/01/2015;Provinsi;MultiPolygon;389251;73
+2015;33;33;Jawa Tengah;JAWA TENGAH;01/01/2015;Provinsi;MultiPolygon;1800662;48
+2015;34;34;DI Yogyakarta;DI YOGYAKARTA;01/01/2015;Daerah Istimewa;MultiPolygon;306498;266
+2015;35;35;Jawa Timur;JAWA TIMUR;01/01/2015;Provinsi;MultiPolygon;4815330;92
+2015;36;36;Banten;BANTEN;01/01/2015;Provinsi;MultiPolygon;49495;101
+2015;51;51;Bali;BALI;01/01/2015;Provinsi;MultiPolygon;588552;123
+2015;52;52;Nusa Tenggara Barat;NUSA TENGGARA BARAT;01/01/2015;Provinsi;MultiPolygon;1284649;126
+2015;53;53;Nusa Tenggara Timur;NUSA TENGGARA TIMUR;01/01/2015;Provinsi;MultiPolygon;1188982;133
+2015;61;61;Kalimantan Barat;KALIMANTAN BARAT;01/01/2015;Provinsi;MultiPolygon;155950;141
+2015;62;62;Kalimantan Tengah;KALIMANTAN TENGAH;01/01/2015;Provinsi;MultiPolygon;77432;110
+2015;63;63;Kalimantan Selatan;KALIMANTAN SELATAN;01/01/2015;Provinsi;MultiPolygon;131146;174
+2015;64;64;Kalimantan Timur;KALIMANTAN TIMUR;01/01/2015;Provinsi;MultiPolygon;123069;221
+2015;65;65;Kalimantan Utara;KALIMANTAN UTARA;01/01/2015;Provinsi;MultiPolygon;23795;0
+2015;71;71;Sulawesi Utara;SULAWESI UTARA;01/01/2015;Provinsi;MultiPolygon;128654;328
+2015;72;72;Sulawesi Tengah;SULAWESI TENGAH;01/01/2015;Provinsi;MultiPolygon;391418;317
+2015;73;73;Sulawesi Selatan;SULAWESI SELATAN;01/01/2015;Provinsi;MultiPolygon;1431533;166
+2015;74;74;Sulawesi Tenggara;SULAWESI TENGGARA;01/01/2015;Provinsi;MultiPolygon;357086;149
+2015;75;75;Gorontalo;GORONTALO;01/01/2015;Provinsi;MultiPolygon;253960;302
+2015;76;76;Sulawesi Barat;SULAWESI BARAT;01/01/2015;Provinsi;MultiPolygon;112662;0
+2015;81;81;Maluku;MALUKU;01/01/2015;Provinsi;MultiPolygon;110063;111
+2015;82;82;Maluku Utara;MALUKU UTARA;01/01/2015;Provinsi;MultiPolygon;106941;71
+2015;91;91;Papua Barat;PAPUA BARAT;01/01/2015;Provinsi;MultiPolygon;56367;160
+2015;94;94;Papua;PAPUA;01/01/2015;Provinsi;MultiPolygon;111604;233
